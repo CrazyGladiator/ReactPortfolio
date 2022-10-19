@@ -43,6 +43,12 @@ export const info = {
             text: "francois@swanepoel.io"
         }
     ],
+    socials: [
+        
+// Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
+// Just change the links so that they lead to your social profiles.
+
+    ],
     bio: "Hello! I'm François. I'm a full time student aspiring to become an engineer",
     skills:
         {
